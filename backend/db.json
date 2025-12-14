@@ -1,0 +1,35 @@
+
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Cómo construir una lista de tareas con React y JSON Server",
+      "date": "2025-04-10",
+      "content": "Este post te guiará paso a paso para crear una aplicación CRUD (Crear, Leer, Actualizar, Eliminar) completa utilizando React, JSON Server para el backend simulado y Axios para la comunicación. Aprenderás sobre custom hooks para la lógica de datos y cómo usar React Router para las diferentes vistas. ¡Empecemos con la configuración de JSON Server y luego el frontend con React!\n\n**Paso 1: Configuración de JSON Server...** [Continúa con el tutorial, fragmentos de código, etc.]",
+      "author": "Tu Nombre"
+    },
+    {
+      "id": 2,
+      "title": "Análisis de la propuesta ‘Temporal’ en TC39",
+      "date": "2025-05-15",
+      "content": "La propuesta 'Temporal' busca resolver los problemas históricos con el manejo de fechas y tiempos en JavaScript. Actualmente, la API `Date` es confusa y propensa a errores, especialmente con zonas horarias. Temporal introduce objetos inmutables y una API más clara y moderna. \n\n**¿Cómo funciona?** Introduce tipos como `PlainDate`, `PlainTime`, `ZonedDateTime`, etc., que hacen explícita la intención del desarrollador. Por ejemplo, `PlainDate` no tiene información de zona horaria.\n\n**Relevancia:** Es crucial porque estandarizará el manejo de fechas, mejorando la calidad del código y la interoperabilidad global. \n\n**Mi Opinión:** Me parece muy útil, aunque la cantidad de nuevos tipos puede ser abrumadora al principio. Los riesgos son mínimos, pero la adopción global dependerá de una documentación clara.",
+      "author": "Tu Nombre"
+    }
+  ],
+  "experiencia": [
+    {
+      "id": 1,
+      "puesto": "Desarrollador Frontend",
+      "empresa": "Tech Solutions Inc.",
+      "duracion": "2023 - Presente",
+      "descripcion": "Desarrollo y mantenimiento de interfaces de usuario utilizando React, TypeScript y Tailwind CSS."
+    },
+    {
+      "id": 2,
+      "puesto": "Interno de Desarrollo Web",
+      "empresa": "Innovate Digital",
+      "duracion": "2022 - 2023",
+      "descripcion": "Asistencia en proyectos web con JavaScript y consumo de APIs REST."
+    }
+  ]
+}
